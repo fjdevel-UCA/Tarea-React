@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/Tarea-React/static/js/main.6825d5ab.chunk.js",
+    "main.js.map": "/Tarea-React/static/js/main.6825d5ab.chunk.js.map",
+    "runtime-main.js": "/Tarea-React/static/js/runtime-main.dd8e2793.js",
+    "runtime-main.js.map": "/Tarea-React/static/js/runtime-main.dd8e2793.js.map",
+    "static/css/2.a96bfb44.chunk.css": "/Tarea-React/static/css/2.a96bfb44.chunk.css",
+    "static/js/2.529a8270.chunk.js": "/Tarea-React/static/js/2.529a8270.chunk.js",
+    "static/js/2.529a8270.chunk.js.map": "/Tarea-React/static/js/2.529a8270.chunk.js.map",
+    "index.html": "/Tarea-React/index.html",
+    "precache-manifest.668400ed38b6a5315c6d1359c4683e51.js": "/Tarea-React/precache-manifest.668400ed38b6a5315c6d1359c4683e51.js",
+    "service-worker.js": "/Tarea-React/service-worker.js",
+    "static/css/2.a96bfb44.chunk.css.map": "/Tarea-React/static/css/2.a96bfb44.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd8e2793.js",
+    "static/css/2.a96bfb44.chunk.css",
+    "static/js/2.529a8270.chunk.js",
+    "static/js/main.6825d5ab.chunk.js"
+  ]
+}
